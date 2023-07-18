@@ -1,0 +1,1 @@
+# This is where your downloaded data will be for 2022 if you choose to use the API to download the json files
