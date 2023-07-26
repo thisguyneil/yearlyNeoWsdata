@@ -1,0 +1,8 @@
+os
+calendar
+requests
+json
+datetime
+pandas
+glob
+matplotlib
