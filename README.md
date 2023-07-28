@@ -36,7 +36,7 @@ This notebook has some requirements to get it to work, below are step by step in
    - Activate the virtual environment:
      -- On Windows: 
        ```
-       venv\Scripts\activate
+       .\venv\Scripts\activate
        ```
      -- On macOS/Linux:
        ```
@@ -67,7 +67,7 @@ If you are using VSCode, here's how you would use this notebook:
    - In the Visual Studio Code's terminal, ensure that the virtual environment is activated. If it's not already activated, activate it using the following commands:
      -- On Windows: 
        ```
-       venv\Scripts\activate
+       .\venv\Scripts\activate
        ```
      -- On macOS/Linux:
        ```
@@ -77,7 +77,7 @@ If you are using VSCode, here's how you would use this notebook:
      -- Navigating to the notebook file in the file explorer and double-clicking it, or
      -- Using the "File" > "Open" option in VSCode and selecting the notebook file.
    
-   - VSCode will now open the Python notebook, and it will automatically use the virtual environment you created for running the code and installing any required packages.
+   - VSCode will now open the Python notebook, and it will automatically use the virtual environment you created for running the code and installing any required packages. When running the cells, if you have not used python notebook cells before in vscode, you may be asked to install an ipynb extension to run python notebook cells. This installation is required to run these cells. 
 
 
 # Using the notebook
